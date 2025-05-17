@@ -4,12 +4,6 @@ This is a **responsive web page** inspired by the official [UltraEdit](https://w
 
 ---
 
-## 📸 Preview
-
-![Preview](./assets/preview.png) <!-- Replace with your actual screenshot path -->
-
----
-
 ## 🧑‍💻 Tech Stack
 
 - **HTML5**
